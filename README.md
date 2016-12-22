@@ -6,7 +6,7 @@ On this challenge we where asked to preprocess some data and then try and classi
 
 On this repo you will find a "preprocess.py" and "predict.py" that are just functions, the other files are attempts to classify the data.
 
-The only relevant file for the challenge is the prerocess.py file.
+The only relevant file for the challenge is the preprocess.py file.
 
 ## Dependencies
 * sklearn (http://scikit-learn.org/stable/install.html)
